@@ -1,0 +1,29 @@
+img {
+    float: left;
+}
+
+.colorUno{
+   /* background-color: blue;  */
+     border: 3x blue solid;
+    clear: both;
+
+}
+
+.lista li {
+    
+    display: inline;
+    padding-left:  45px;
+    padding-right: 45px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 20px;
+    border: 3px red solid;
+    float: right;
+}
+
+
+.texto {
+    border: 3px yellow solid
+
+    clear: both;
+} 
