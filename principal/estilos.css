@@ -10,13 +10,11 @@ img {
 }
 
 .colorUno {
-   
      border: 3x blue solid;
 
 }
 
 .lista li {
-    
    background-color: #b24334;
     display: inline-block;
     margin: 20px;
@@ -27,6 +25,14 @@ img {
     color: white;
     margin: 0 -4px;
 
+}
+
+.lista {
+
+    position: relative;
+    left: 30%;
+    right: 1px;
+    box-sizing: border-box;
 }
 
 
@@ -41,6 +47,12 @@ img {
 
     clear: both;
 } 
+
+.separador {
+    float: left;
+    background-color: #c55c24;
+    border: 3px red solid;
+}
 
 .texto2 {
     background-color: white;
